@@ -15,4 +15,3 @@ function fn(){
 }
 const st=setTimeout(()=>
 {console.log(2)},1000)
-
