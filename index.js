@@ -19,3 +19,4 @@ console.log(1)
 const hh=setTimeout(()=>{
 
 },1000)
+const {log}=console
